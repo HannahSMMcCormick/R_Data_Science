@@ -20,3 +20,5 @@ print(a %*% i)
 # Singular Matrices - dont have an inverse
 
 #Diagonal and triangle matrices
+
+# When multiplying matrics a * b =  (w * x) * (y * z) where x must = y
